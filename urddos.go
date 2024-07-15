@@ -223,7 +223,7 @@ func main() {
     fmt.Println("  | Jai Shree Ram |  | |                                               | |  | Jai Shree Ram |")
     fmt.Println("  | Jai Shree Ram |  | ================================================= |  | Jai Shree Ram |")
     fmt.Println("  | Jai Shree Ram |  =====================================================  | Jai Shree Ram |")
-    fmt.Println("  |_______________|  t.me/o_rohanmaurya_o           ||  COD3D BY ROHAN  ||  |_______________|")
+    fmt.Println("  |_______________|  https://t.me/NEXION_GAMEING       ||  COD3D BY NEXION  |  |_______________|")
     fmt.Println("                                                    =====================")
     fmt.Println("                                                                                         ")
     fmt.Println("                                                                                         ")
