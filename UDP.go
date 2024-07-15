@@ -11,7 +11,7 @@ import (
 
 func main() {
  if len(os.Args) != 4 {
-  fmt.Println("Usage: go run UDP.go <target_ip> <target_port> <attack_duration>")
+  fmt.Println("Usage: go run UDP.go <target_ip> <target_port> <attack_duration>               CODE MADE BY NEXION               https://t.me/NEXION_GAMEING")
   return
  }
 
